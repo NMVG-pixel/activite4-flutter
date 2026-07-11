@@ -1,6 +1,6 @@
 {
-    "name": "activite1",
-    "short_name": "activite1",
+    "name": "activite2",
+    "short_name": "activite2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
